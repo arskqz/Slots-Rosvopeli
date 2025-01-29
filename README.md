@@ -32,3 +32,5 @@ Game mimics slots machine look and the art is Gravity Falls themed.
 > Propably should have made the game logic with c++
 > 
 > Or atleast split in to separate files did not realize this was gonna be 400 lines :P
+>
+> Was too lazy to build app so here's only the raw code
