@@ -6,7 +6,8 @@ It has fun qml animations and oc art drawn in ms paint.
 
 Game mimics slots machine look and the art is Gravity Falls themed.
 
-<font color="red">This is propably never gonna get updated! It was a fun project to learn qml.</font>
+> [!WARNING]
+> This is never getting updated! It was a fun project to learn qml.
 
 ### Spin the wheel and win 
 
