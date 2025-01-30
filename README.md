@@ -1,6 +1,6 @@
 # Slots-Rosvopeli
 
-Small slots ( Yksikätinen rosvo ) game made with qml / javascript. 
+Small slots ( Yksikätinen rosvo ) game made with QT 6.8.1 qml / javascript. 
 
 It has fun qml animations and oc art drawn in ms paint. 
 
